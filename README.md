@@ -1,12 +1,15 @@
-# Shell-Scripting
-learning Shell-Scripting
+# learn-shellscript
 
-Welcome to Shell-Scripting.
+Shell Scripting , We learn Bash Shell Scripting
 
-List Of Topics
-1.functions
-2.conditions
-3.variabless
-4.print
-5.commands
+List of Topics:
+
+1. Comments
+2. Print
+3. Variables
+4. Functions
+5. Conditions
+6. Loops
+7. Exit Status & Redirectors & Quotes
+8. SED Editor 
 
